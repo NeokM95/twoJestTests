@@ -12,7 +12,7 @@ test( "Remove odd numbers, multiply even numbers by given number", () => {
     expect( answer ).toEqual( [ 48, 12, 36, 72 ] )
 } )
 
-test( "Separate boys from girls. Boys in ascending order, girls in descending order", () => {
+test( "Separate boys from girls. Boys in ascending order of age, girls in descending order of age", () => {
     //Arrange
     const personDetails = [
         {
