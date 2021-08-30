@@ -1,0 +1,15 @@
+{
+  "name": "twotestsbykoen",
+  "version": "1.0.0",
+  "description": "Two Practice Tests By Koen",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "test:watch": "npx jest --watch"
+  },
+  "author": "Koen Mensink",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
